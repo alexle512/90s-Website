@@ -1,0 +1,31 @@
+.index{
+  color:white;
+  margin: 50px;
+  padding: 20px;
+
+}
+
+.index1 {
+    background-color:#CE1141;
+    color: white;
+    margin: 0px;
+    padding:0px;
+    font-size: 26;
+    
+  }
+
+.players {
+  background-color:#CE1141;
+  color:white;
+  padding:10px;
+  font-size:24px;
+  }
+  
+  
+
+.banner {
+  max-width:100%;
+  max-height:100%;
+  margin: 0px;
+  padding:0px;
+}
